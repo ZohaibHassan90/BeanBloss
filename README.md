@@ -82,16 +82,3 @@ flutter run \
 
 ---
 
-## Security
-
-Not committed to git:
-
-- `google-services.json` · `firebase_options.dart`
-- `.env` · service accounts · keystores
-
-Use the `.example` files as templates only.
-
----
-
-
-
