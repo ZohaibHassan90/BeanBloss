@@ -1,6 +1,6 @@
 # BeanBloss ☕
 
-**End-to-end Flutter café pickup app** — real auth, cloud database, live order tracking, and media uploads. Built as a production-style mobile product, not a UI-only demo.
+**End-to-end Flutter café pickup app** — real auth, cloud database, live order tracking, and media uploads. 
 
 Browse the menu → customize & checkout → track preparation in real time → pay at the counter.
 
